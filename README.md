@@ -33,10 +33,10 @@ HTML, CSS, JavaScript/TypeScript
 ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 I enjoy game development with **Godot 4**, including:
-- 🎮 Game design
-- 🎨 Creating pixel art game sprites for environments
+- Game design
+- Creating pixel art game sprites for environments
 
-## 💼 Experience
+## Experience
 
 - Full-stack web development with modern frameworks and tools
 - Database design and management
