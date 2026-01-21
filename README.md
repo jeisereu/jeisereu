@@ -1,8 +1,8 @@
-## 👨‍💻 About Me
+## About Me
 
 I'm a **BS Computer Science graduate** and currently a **Junior Software Engineer** with experience in multiple full-stack setups. I enjoy building modern web applications and creating games on the side.
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
